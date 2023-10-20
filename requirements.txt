@@ -1,0 +1,4 @@
+--extra-index-url https://asia-northeast3-python.pkg.dev/heekkr/heekkr-python/simple/
+aiohttp>=3.8.6,<4
+aiostream>=0.5.1,<0.6
+heekkr==1.2.0
